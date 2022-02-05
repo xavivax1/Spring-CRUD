@@ -1,0 +1,15 @@
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\services\UsuarioServiceImpl.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\auth\ResourceServerConfig.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\config\SwaggerConfig.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\entity\Cliente.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\entity\Usuario.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\dao\UsuarioDao.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\dao\ClienteDao.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\auth\AuthorizationServerConfig.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\auth\SpringSecurityConfig.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\ServletInitializer.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\services\ClienteService.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\entity\Role.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\HellospringApplication.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\models\services\ClienteServiceImpl.java
+C:\git\Spring-CRUD\src\main\java\com\formacion\spring\hellospring\controllers\ClienteRestController.java
